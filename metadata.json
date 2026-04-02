@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Ancient Script River",
+  "description": "An interactive gesture-controlled visualization of ancient scripts flowing like a river, changing based on hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
